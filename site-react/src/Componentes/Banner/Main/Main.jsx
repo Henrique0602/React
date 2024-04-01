@@ -7,9 +7,9 @@ function Main(){
             <section id="info">
                  <div className="personal-info">
                      <h2>Informações Pessoais</h2>
-                     <p>Nome: João</p>
-                    <p>Email: joao@example.com</p>
-                    <p>Telefone: (00) 12345-6789</p>
+                     <p>Nome: Henrique</p>
+                    <p>Email: Henrique@gmail.com</p>
+                    <p>Telefone: (11) 12345-6789</p>
                 </div>
             </section>     
         </div>         
