@@ -30,7 +30,7 @@ nav a.active {
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
-    padding: 70px;
+    padding: 60px;
     font-size: 25px;
 }
 
@@ -55,4 +55,58 @@ button {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.card {
+  width: 309px;
+  height: 326px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 40px;
+  color: black;
+}
+.card h1 {
+  color: white;
+  font-size: 45px;
+}
+.card h3 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 24px;
+  color: black;
+}
+
+.card p {
+  font-size: 18px;
+  color: black;
+}
+
+.pink {
+  background-color: #F1C2B0;
+}
+
+.yellow {
+  background-color:  #F9EB98;
+  ;
+}
+
+.lightblue {
+  background-color: #add8e6;
+}
+
+.navy {
+  background-color: #6975E8;
+}
+
+.card + .card {
+  margin-left: 25px;
 }
