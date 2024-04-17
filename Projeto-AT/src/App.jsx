@@ -1,15 +1,14 @@
 import './App.css'
 import Header from'./Componentes/Header/header'
-import Main from './Componentes/Main/MainTitle'
-import Cards from './Componentes/Main/cards'
+import { Outlet } from 'react-router-dom';
 
 function App() {
 
   return (
     <>
       <Header/>
-      <Main/>
-      <Cards/>
+      <Outlet/>
+     
 
     </>
   )

@@ -1,5 +1,6 @@
 import imgSkate from "../IMAGEM/Skate.jpg";
 import Botao from "../Main/Botão";
+import Card from "../Main/cards"
 
 function Main() {
   return (
@@ -20,6 +21,7 @@ function Main() {
             <img src={imgSkate} />
           </div>
         </div>
+        <Card></Card>
       </div>
     </main>
   );
