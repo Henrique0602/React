@@ -36,13 +36,15 @@ nav a.active {
 
 .componente{
     width: 297px;
-    height: 66px;
+    height: 60px;
     border-radius: 40px;
     background-color: #333333;
     color: white;
     font-size: 20px;
     font-weight: bold;
-  
+    text-align: center;
+    align-items: center;
+   
 }
 
 
@@ -137,4 +139,149 @@ nav a.active {
 .imagemcell2{
   width:216px ;
   height: 469px;
+}
+
+.mainContato{
+  min-height: calc(50vh - 100px);
+  padding: 20px;
+  margin: 10px;
+  margin-top: 80px;
+}
+ 
+#contato {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+ 
+.formaContato {
+  width: 30%;
+}
+ 
+.Nome{
+  display: flex;
+  flex-direction: row;
+}
+ 
+.Nome label{
+  align-self: center;
+  font-family: 'Roboto Mono';
+}
+ 
+.Email{
+  display: flex;
+  flex-direction: row;
+  
+}
+ 
+.Email label{
+  align-self: center;
+  font-family: 'Roboto Mono';
+  font-size: 14px;
+}
+
+.Mensagem {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  
+
+}
+ 
+.Mensagem label{
+  align-self: flex-start;
+  font-family: 'Roboto Mono';
+}
+ 
+.Mensagem input{
+  height: 100px;
+  margin-left: 30px;
+  
+}
+ 
+#contatoEmail{
+  text-align: center;
+}
+ 
+#contatoEmail form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+ 
+.texto{
+  margin: 20px 20px;
+  margin-right: 0px;
+  width: 300px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(187, 187, 187);
+  border: 0 none;
+  outline: 0;
+  align-items: center;
+}
+ 
+.botao{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+ 
+button{
+  width: 150px;
+  border: none;
+  background-color: #6975E8 ;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+ 
+.mainContato{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+ 
+#contato{
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+ 
+.caixaMensagem{
+  margin: 20px 20px;
+  margin-right: 0px;
+  width: 340px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(187, 187, 187);
+  border: 0 none;
+  outline: 0;
+  align-items: center;
+}
+ 
+h2{
+  font-size: 50px;
+}
+ 
+.imagem{
+  margin: 15px;
+  font-family: 'Roboto Mono';
+}
+ 
+.imagens{
+  display: flex;
+  flex-direction: row;
+}
+ 
+.linha{
+  height: 500px;
+  border-left: 2px solid;
+  color: rgb(170, 170, 170);
 }

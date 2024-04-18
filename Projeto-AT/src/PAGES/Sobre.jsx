@@ -1,6 +1,6 @@
 import TelaFrente from "../PAGES/Imagens/Viseo Merge screen 1.png";
 import TelaSeguranca from "../PAGES/Imagens/Saved 1.png";
-import Botao from "../Componentes/Main/Botão";
+import Botao from "../Componentes/Botao/button";
 
 
 
