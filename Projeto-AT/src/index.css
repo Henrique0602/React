@@ -285,3 +285,101 @@ h2{
   border-left: 2px solid;
   color: rgb(170, 170, 170);
 }
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.cardCards2{
+  width: 260px;
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 10px;
+  margin: 25px;
+
+}
+.containerCards {
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  background-color:  #F4F2F2; 
+}
+.card-header {
+  display: flex;
+  background: #6975E8;
+  width: auto;
+  height: 74px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+.card-header p {
+  font-size: 15px;
+}
+.h3card{
+  color: grey;
+  font-size: small;
+  margin-left: 8px; 
+  margin-top: 20px;
+}
+.checkbox{
+  width: 105%;
+  height: 32px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px rgb(187, 187, 187);
+  border: 0 none;
+  outline: 0;
+  align-items: center;
+  margin-left: 5px; 
+}
+.card-main{
+  width: 90%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.btnCadastrar{
+  width: 225px;
+  height: 34px;
+  border: none;
+  background-color: #6975E8 ;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.card-footer{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.texto{
+  display: flex;
+  flex-direction: column;
+}
+
+.texto h1{
+ display: flex;
+ justify-content: center;
+ font-family: 'Roboto Mono';
+}
+
+.cartas{
+  display: flex;
+  flex-direction: row;
+}
+
+.titulo{
+  display: flex;
+  justify-content: center;
+}

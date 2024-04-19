@@ -1,7 +1,7 @@
 import TelaFrente from "../PAGES/Imagens/Viseo Merge screen 1.png";
 import TelaSeguranca from "../PAGES/Imagens/Saved 1.png";
 import Botao from "../Componentes/Botao/button";
-
+import Cards from "../Componentes/Main/Cards2"
 
 
 export default function Sobre(){
@@ -25,6 +25,7 @@ export default function Sobre(){
 
             </div>
           </div>
+          <Cards/>
         </div>
       </main>
     )
