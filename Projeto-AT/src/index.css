@@ -285,6 +285,11 @@ h2{
   border-left: 2px solid;
   color: rgb(170, 170, 170);
 }
+
+.linhaHorizontal{
+  width: 100%;
+  border-top: 2px solid rgb(170, 170, 170); 
+}
 .container {
   display: flex;
   justify-content: center;
@@ -292,7 +297,7 @@ h2{
 }
 .cardCards2{
   width: 260px;
-  height: 390px;
+  height: 400px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -307,7 +312,7 @@ h2{
   padding: 25px;
   background-color:  #F4F2F2; 
 }
-.card-header {
+.card-header-blue {
   display: flex;
   background: #6975E8;
   width: auto;
@@ -318,8 +323,34 @@ h2{
   flex-direction: row;
   align-items: center;
 }
+.card-header-blue p{
+  font-weight: bold;
+}
+.card-header-white p{
+  font-weight: bold;
+}
+.card-header-white{
+  display: flex;
+  background: #ffffff;
+  width: auto;
+  height: 74px;
+  border-top-left-radius: 40%;
+  border-top-right-radius: 40%;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card-header-white:hover {
+  background: #6975E8;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+
 .card-header p {
   font-size: 15px;
+  font-weight: bold;
 }
 .h3card{
   color: grey;
@@ -346,6 +377,20 @@ h2{
 .btnCadastrar{
   width: 225px;
   height: 34px;
+  background-color: #ffffff ;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border-radius: 5px;
+  border: solid #333333 1px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.btnCadastrarIndividual{
+  width: 225px;
+  height: 34px;
   border: none;
   background-color: #6975E8 ;
   color: white;
@@ -355,8 +400,15 @@ h2{
   display: flex;
   justify-content: center;
   align-items: center;
-  
+  margin-bottom: 30px;
 }
+
+.btnCadastrar:hover {
+  background-color: #6975E8;
+  color: white;
+  border: none;
+}
+
 .card-footer{
   width: 100%;
   display: flex;
@@ -382,4 +434,11 @@ h2{
 .titulo{
   display: flex;
   justify-content: center;
+}
+
+.card-main img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 60px;
 }

@@ -6,40 +6,38 @@ function App() {
     <div className="containerCards">
         <div className="Texto">
             <div className="titulo">
-                <h1>planos</h1>
+                <h1>Planos</h1>
             </div>
             <div className="cartas">
                     <div className="cardCards2">
-                    <div className="card-header blue"><p>Individual</p></div>
+                    <div className="card-header-blue"><p>Individual</p></div>
                     <div className="card-main">
                         <h3 className="h3card">1 usuario</h3>
                     <select className="checkbox">
-                        <option value="plano1">Plano 1</option>
-                        <option value="plano2">Plano 2</option>
-                        <option value="plano3">Plano 3</option>
-                        <option value="plano4">Plano 4</option>
-                        <option value="plano5">Plano 5</option>
+                        <option value="plano1">10 vídeos <strong>R$40</strong></option>
+                        <option value="plano2">20 vídeos <strong>R$50</strong></option>
+                        <option value="plano3">30 vídeos <strong>R$50</strong></option>
+                        <option value="plano4">40 vídeos <strong>R$60</strong></option>
+                        <option value="plano5">50 vídeos <strong>R$70</strong></option>
                     </select>
                     </div>
                     <div className="card-footer">
-                    <button className="btnCadastrar">Cadastrar</button>
+                    <button className="btnCadastrarIndividual">Cadastrar</button>
                     </div>
                 </div>
 
                 <div className="cardCards2">
-                    <div className="card-header white">Profissional - times</div>
+                    <div className="card-header-white"><p>Profissional - times</p></div>
+                    <div className="linhaHorizontal"></div>
                     <div className="card-main">
                     <h3 className="h3card">1 - 10 usuario</h3>
                     <select className="checkbox">
-                        <option value="1-10">1 - 10 usuários</option>
-                        <option value="11-20">11 - 20 usuários</option>
-                        <option value="21-30">21 - 30 usuários</option>
+                        <option value="1-10">Vídeos Ilimitados <strong>R$40</strong></option>
                     </select>
                     <h3 className="h3card">+ 10 usuario</h3>
                     <select className="checkbox">
-                        <option value="1-10">1 - 10 usuários</option>
-                        <option value="11-20">11 - 20 usuários</option>
-                        <option value="21-30">21 - 30 usuários</option>
+                        <option value="1-10">Vídeos Ilimitados <strong>R$20</strong></option>
+                       
                     </select>
                     </div>
                     <div className="card-footer">
@@ -48,7 +46,8 @@ function App() {
                 </div>
 
                 <div className="cardCards2">
-                    <div className="card-header white">Corporativo</div>
+                    <div className="card-header-white"><p>Corporativo</p></div>
+                    <div className="linhaHorizontal"></div>
                     <div className="card-main">
                     <img src={Pessoa} width="150" />
                     </div>
