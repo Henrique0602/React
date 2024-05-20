@@ -2,8 +2,8 @@ import NavBar from "../NavBar/NavBar";
 
 function Header() {
     return ( 
-        <header>
-            <span className="flex jus">Olá, vesitante!</span>
+        <header  className="flex justify-around bg-primary-raul text-white font-bold p-4">
+            <span>Olá, vesitante!</span>
             <h1>Bem-vindo ao MoviApp</h1>
             <NavBar/>
         </header>
