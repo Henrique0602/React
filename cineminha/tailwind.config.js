@@ -6,9 +6,11 @@ export default {
   ],
   theme: {
     extend: {
+
       colors:{
         "primary-raul" : "#735ABC"
       }
+
     },
   },
   plugins: [],
