@@ -4,7 +4,10 @@ function Home() {
     console.log(data)
     return ( 
         <main className="bg-black">
-            <input className="w-150 h-10 rounded-lg mx-4" type="text" name="busca" id="busca" placeholder="Digite aqui sua busca" />
+            <div className="flex justify-center">
+                 <input className=" w-80 h-12 rounded-lg mt-10 p-5 border-solid border-2 border-red-600 " type="text" name="busca" id="busca" placeholder="Digite aqui sua busca" />
+            </div>
+            
             <div className="grid grid-cols-3 gap-4">
 
             {data.map(
@@ -13,10 +16,10 @@ function Home() {
                            <h1 className="bg-black text-white flex justify-center border-solid border-2 border-red-600 rounded-lg mt-5 ">{filme.title}</h1>
 
                            {filme.image ?
-                           <img className="w-40 flex justify-center items-center m-10 rounded-lg mb-15 mt-10 " src={filme.image} alt={filme.title} />:
+                           <img className="w-40 flex justify-center items-center m-10 rounded-lg mb-15 mt-10  " src={filme.image} alt={filme.title} />:
                            "Não tem imagem"}
 
-                           <div className="text bg-black rounded-lg text-white border-solid border-2 p-10 mb-7">
+                           <div className="text bg-black rounded-lg text-white border-solid border-2 p-10 mb-7 text-justify">
                                {filme.text.map(text => (
                                 <span key={text}> {text}</span>
                                ))}
