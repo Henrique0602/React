@@ -1,207 +1,191 @@
 [
     {
-    "title": "Novidades no mundo do cinema",
-    "image": "PlanetaDosMacacos.jpg",
+    "title": "Liga Da Justiça",
+    "image": "LG.jpg",
     "text": [
-    "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-    "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+    "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
     ],
     "tags": ["cinema", "podcast"]
     },
     {
-    "title": "Discussões e análises sobre os filmes mais recentes",
-    "image": "PlanetaDosMacacos.jpg",
+    "title": "Velozos e Furiosos",
+    "image": "FV.jpg",
     "text": [
-    "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-    "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+        "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
     ],
     "tags": ["cinema", "discord"]
     },
     {
-    "title": "Desafio de criação cinematográfica",
+    "title": "Planeta dos Macacos",
+    "image": "PlanetaDosMacacos.jpg",
     "text": [
-    "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-    "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+        "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
     ],
     "tags": ["cinema", "desafio", "criação"]
     },
     {
-        "title": "Novidades no mundo do cinema",
-        "image": "PlanetaDosMacacos.jpg",
+        "title": "Kong",
+        "image": "Kong.png",
         "text": [
-        "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-        "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+            "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
         ],
         "tags": ["cinema", "podcast"]
         },
         {
-        "title": "Discussões e análises sobre os filmes mais recentes",
+        "title": "Planeta dos Macacos",
         "image": "PlanetaDosMacacos.jpg",
         "text": [
-        "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-        "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+            "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
         ],
         "tags": ["cinema", "discord"]
         },
         {
-        "title": "Desafio de criação cinematográfica",
+        "title": "Liga Da Justiça",
+        "image": "LG.jpg",
         "text": [
-        "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-        "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+            "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
         ],
         "tags": ["cinema", "desafio", "criação"]
         },
         {
-            "title": "Novidades no mundo do cinema",
-            "image": "PlanetaDosMacacos.jpg",
+            "title": "Kong",
+            "image": "Kong.png",
             "text": [
-            "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-            "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+                "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
             ],
             "tags": ["cinema", "podcast"]
             },
             {
-            "title": "Discussões e análises sobre os filmes mais recentes",
+            "title": "Planeta dos Macacos",
             "image": "PlanetaDosMacacos.jpg",
             "text": [
-            "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-            "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+                "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
             ],
             "tags": ["cinema", "discord"]
             },
             {
-            "title": "Desafio de criação cinematográfica",
+            "title": "Liga Da Justiça",
+            "image": "LG.jpg",
             "text": [
-            "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-            "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+                "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
             ],
             "tags": ["cinema", "desafio", "criação"]
             },
             {
-                "title": "Novidades no mundo do cinema",
-                "image": "PlanetaDosMacacos.jpg",
+                "title": "Kong",
+                "image": "Kong.png",
                 "text": [
-                "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+                    "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
                 ],
                 "tags": ["cinema", "podcast"]
                 },
                 {
-                "title": "Discussões e análises sobre os filmes mais recentes",
+                "title": "Planeta dos Macacos",
                 "image": "PlanetaDosMacacos.jpg",
                 "text": [
-                "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+                    "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
                 ],
                 "tags": ["cinema", "discord"]
                 },
                 {
-                "title": "Desafio de criação cinematográfica",
+                "title": "Liga Da Justiça",
+                "image": "LG.jpg",
                 "text": [
-                "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+                    "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
                 ],
                 "tags": ["cinema", "desafio", "criação"]
                 },{
-                    "title": "Novidades no mundo do cinema",
+                    "title": "Planeta dos Macacos",
                     "image": "PlanetaDosMacacos.jpg",
                     "text": [
-                    "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                    "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+                        "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
                     ],
                     "tags": ["cinema", "podcast"]
                     },
                     {
-                    "title": "Discussões e análises sobre os filmes mais recentes",
-                    "image": "PlanetaDosMacacos.jpg",
+                    "title": "Kong",
+                    "image": "Kong.png",
                     "text": [
-                    "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                    "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+                        "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
                     ],
                     "tags": ["cinema", "discord"]
                     },
                     {
-                    "title": "Desafio de criação cinematográfica",
+                    "title": "Velozos e Furiosos",
+                    "image": "FV.jpg",
                     "text": [
-                    "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                    "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+                        "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
                     ],
                     "tags": ["cinema", "desafio", "criação"]
                     },
                     {
-                        "title": "Novidades no mundo do cinema",
+                        "title": "Planeta dos Macacos",
                         "image": "PlanetaDosMacacos.jpg",
                         "text": [
-                        "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                        "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+                            "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
                         ],
                         "tags": ["cinema", "podcast"]
                         },
                         {
                         "title": "Discussões e análises sobre os filmes mais recentes",
-                        "image": "PlanetaDosMacacos.jpg",
+                        "image": "FV.jpg",
                         "text": [
-                        "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                        "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+                            "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
                         ],
                         "tags": ["cinema", "discord"]
                         },
                         {
-                        "title": "Desafio de criação cinematográfica",
+                        "title": "Kong",
+                        "image": "Kong.png",
                         "text": [
-                        "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                        "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+                            "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
                         ],
                         "tags": ["cinema", "desafio", "criação"]
                         },{
-                            "title": "Novidades no mundo do cinema",
+                            "title": "Planeta dos Macacos",
                             "image": "PlanetaDosMacacos.jpg",
                             "text": [
-                            "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                            "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+                                "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
                             ],
                             "tags": ["cinema", "podcast"]
                             },
                             {
-                            "title": "Discussões e análises sobre os filmes mais recentes",
-                            "image": "PlanetaDosMacacos.jpg",
+                            "title": "Velozos e Furiosos",
+                            "image": "FV.jpg",
                             "text": [
-                            "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                            "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+                                "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
                             ],
                             "tags": ["cinema", "discord"]
                             },
                             {
-                            "title": "Desafio de criação cinematográfica",
+                            "title": "Kong",
+                            "image": "Kong.png",
                             "text": [
-                            "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                            "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+                                "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
                             ],
                             "tags": ["cinema", "desafio", "criação"]
                             },
                             {
-                                "title": "Novidades no mundo do cinema",
-                                "image": "PlanetaDosMacacos.jpg",
+                                "title": "Velozos e Furiosos",
+                                "image": "FV.jpg",
                                 "text": [
-                                "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                                "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+                                    "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
                                 ],
                                 "tags": ["cinema", "podcast"]
                                 },
                                 {
-                                "title": "Discussões e análises sobre os filmes mais recentes",
+                                "title": "Planeta dos Macacos",
                                 "image": "PlanetaDosMacacos.jpg",
                                 "text": [
-                                "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                                "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+                                    "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
                                 ],
                                 "tags": ["cinema", "discord"]
                                 },
                                 {
-                                "title": "Desafio de criação cinematográfica",
+                                "title": "Liga Da Justiça",
+                                "image": "LG.jpg",
                                 "text": [
-                                "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                                "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+                                    "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
                                 ],
                                 "tags": ["cinema", "desafio", "criação"]
                                 }
