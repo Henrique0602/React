@@ -1,4 +1,4 @@
-import data from "../../article.json"
+    import data from "../../article.json"
 
 function Home() {
     console.log(data)

@@ -32,7 +32,7 @@ function Filmes() {
                         <h1 className="flex justify-center items-center rounded-lg border-solid border-2 border-red-600 w-50 mb-5 p-3" >{filme.title}</h1>
                         <img className="flex justify-center items-center" src={`${urlImg}${filme.poster_path}`}/>
                         <p className="rounded-lg border-solid border-2 border-white mb-10 mt-5 p-3 text-justify">{filme.overview}</p>
-                    <Link className="bg-red-600 " to ={`${Filmes.id}`}>Saber Mais</Link>
+                    <Link className="bg-red-600 w-10 " to ={`${filme.id}`}>Saber Mais</Link>
 
                         
                     </div>
