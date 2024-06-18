@@ -7,6 +7,8 @@
     ],
     "tags": ["cinema", "podcast"]
     },
+
+
     {
     "title": "Velozos e Furiosos",
     "image": "FV.jpg",
@@ -15,6 +17,9 @@
     ],
     "tags": ["cinema", "discord"]
     },
+
+
+
     {
     "title": "Planeta dos Macacos",
     "image": "PlanetaDosMacacos.jpg",
@@ -23,6 +28,8 @@
     ],
     "tags": ["cinema", "desafio", "criação"]
     },
+
+    
     {
         "title": "Kong",
         "image": "Kong.png",

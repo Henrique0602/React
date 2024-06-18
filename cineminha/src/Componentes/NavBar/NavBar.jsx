@@ -7,8 +7,7 @@ function NavBar() {
         <ul className='flex gap-4 ml-3 text-colorTxt font-bold'>
             <li><Link to = "/">Home</Link></li>
             <li><Link to = "filmes">Filmes</Link></li>
-            <li><Link to = "sobre">Favoritos</Link></li>
-            <li><Link to = "contato">Noticias</Link></li>
+            <li><Link to = "noticias">Noticias</Link></li>
         </ul>
     </nav>
             
