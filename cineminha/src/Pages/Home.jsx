@@ -1,11 +1,12 @@
 import data from "../../article.json"
 
+
 function Home() {
     console.log(data)
     return (
         <main className="bg-black">
             <div className="flex justify-center ">
-                <input className=" w-80 h-12 rounded-lg mt-10 p-5 border-solid border-2 border-red-600 bg-black text-white" type="text" name="busca" id="busca" placeholder="Digite aqui sua busca" />
+                <input className=" w-80 h-12 rounded-lg mt-10 p-5 border-solid border-2 border-white bg-black text-white" type="text" name="busca" id="busca" placeholder="Digite aqui sua busca" />
             </div>
 
             <div className="grid grid-cols-3 gap-4">
@@ -13,7 +14,7 @@ function Home() {
                 {data.map(
                     filme => (
                         <div className="card mx-5 gap-3" key={filme.title}>
-                            <h1 className="bg-black text-white flex justify-center border-solid border-2 border-red-600 rounded-lg mt-5 ">{filme.title}</h1>
+                            <h1 className="bg-black text-white flex justify-center border-solid border-2 border-white rounded-lg mt-5 ">{filme.title}</h1>
 
                             {filme.image ?
                                 <img className="w-[250px] flex justify-center items-center m-10 rounded-lg mb-15 mt-10  " src={filme.image} alt={filme.title} /> :

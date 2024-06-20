@@ -9,6 +9,10 @@ export default {
 
       colors:{
         "primary-raul" : "#735ABC"
+      },
+
+      Font:{
+          
       }
 
     },

@@ -23,8 +23,8 @@ function PaginaFilmes(){
         
        <body className="bg-black w-screen h-screen p-10">
         <img  className = "w-98 flex justify-center items-center ml-10 border-solid border-2 border-white rounded-3xl " src={`${urlImg}${filme.backdrop_path}`}/>
-         <h1 className="text-white text-lg border-solid border-2 border-red-600 rounded-lg p-3 mt-10 mb-5  ">{filme.title}</h1>  
-         <p  className="text-white text-lg border-solid border-2 border-red-600 rounded-lg p-2 ">{filme.overview}</p>
+         <h1 className="text-white text-lg border-solid border-2 border-white rounded-lg p-3 mt-10 mb-5  ">{filme.title}</h1>  
+         <p  className="text-white text-lg border-solid border-2 border-white rounded-lg p-2 ">{filme.overview}</p>
        </body>
 
        
