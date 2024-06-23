@@ -5,8 +5,8 @@
     "text": [
     "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
     ],
-    "tags": ["cinema", "podcast"],
-    "news":["Essa será a ultima edição do filme, que será lançada em 2025"]
+    "tags": ["Ação", "/Aventura"]
+
     },
 
 
@@ -16,8 +16,8 @@
     "text": [
         "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
     ],
-    "tags": ["cinema", "discord"],
-    "news":["Essa será a ultima edição do filme, que será lançada em 2025"]
+    "tags": ["Ação", "/Aventura"]
+
     },
 
 
@@ -28,8 +28,8 @@
     "text": [
         "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
     ],
-    "tags": ["cinema", "desafio", "criação"],
-    "news":["Essa será a ultima edição do filme, que será lançada em 2025"]
+    "tags": ["Ação", "/Aventura"]
+
     },
 
     
@@ -39,23 +39,23 @@
         "text": [
             "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
         ],
-        "tags": ["cinema", "podcast"]
+        "tags": ["Ação", "/Aventura"]
         },
         {
-        "title": "Planeta dos Macacos",
-        "image": "PlanetaDosMacacos.jpg",
+        "title": "Lugar Silencioso",
+        "image": "Lugar.jpg",
         "text": [
-            "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
+            "Um Lugar Silencioso: Dia Um é um spin-off de Um Lugar Silencioso, filme de 2018 dirigido por John Krasinski, que também estrela o filme ao lado da esposa, Emily Blunt. O spin-off é um prelúdio do primeiro filme, acompanhando a chegada dos alienígenas à Terra e a ruína da sociedade como resultado da invasão. Antes dos assustadores eventos vividos pela família Abbott (John Krasinski e Emily Blunt) nos filmes anteriores, o mundo não estava dominado pelos alienígenas. Sam (Lupita Nyong'o) estava entre os humanos acostumados aos ruídos de uma metrópole, como Nova York."
         ],
-        "tags": ["cinema", "discord"]
+        "tags": ["Terror", "/Suspense"]
         },
         {
-        "title": "Liga Da Justiça",
-        "image": "LG.jpg",
+        "title": "Meu Malvado Favorito 4",
+        "image": "Minios.webp",
         "text": [
-            "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
+            "Gru enfrenta novos inimigos. Maxime Le Mal e sua namorada mulher-fatal Valentina (Sofia Vergara, indicada ao Emmy) são tão malévolos que não deixam alternativa à família Gru senão fugir."
         ],
-        "tags": ["cinema", "desafio", "criação"]
+        "tags": ["comédia"]
         },
         {
             "title": "Kong",
@@ -63,71 +63,23 @@
             "text": [
                 "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
             ],
-            "tags": ["cinema", "podcast"]
+            "tags": ["Ação", "/Aventura"]
             },
             {
-            "title": "Planeta dos Macacos",
-            "image": "PlanetaDosMacacos.jpg",
-            "text": [
-                "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
-            ],
-            "tags": ["cinema", "discord"]
-            },
+                "title": "Lugar Silencioso",
+                "image": "Lugar.jpg",
+                "text": [
+                    "Um Lugar Silencioso: Dia Um é um spin-off de Um Lugar Silencioso, filme de 2018 dirigido por John Krasinski, que também estrela o filme ao lado da esposa, Emily Blunt. O spin-off é um prelúdio do primeiro filme, acompanhando a chegada dos alienígenas à Terra e a ruína da sociedade como resultado da invasão. Antes dos assustadores eventos vividos pela família Abbott (John Krasinski e Emily Blunt) nos filmes anteriores, o mundo não estava dominado pelos alienígenas. Sam (Lupita Nyong'o) estava entre os humanos acostumados aos ruídos de uma metrópole, como Nova York."
+                ],
+                "tags": ["Terror", "/Suspense"]
+                },
             {
             "title": "Liga Da Justiça",
             "image": "LG.jpg",
             "text": [
                 "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
             ],
-            "tags": ["cinema", "desafio", "criação"]
-            },
-            {
-                "title": "Kong",
-                "image": "Kong.png",
-                "text": [
-                    "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
-                ],
-                "tags": ["cinema", "podcast"]
-                },
-                {
-                "title": "Planeta dos Macacos",
-                "image": "PlanetaDosMacacos.jpg",
-                "text": [
-                    "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
-                ],
-                "tags": ["cinema", "discord"]
-                },
-                {
-                "title": "Liga Da Justiça",
-                "image": "LG.jpg",
-                "text": [
-                    "Justice League reúne os maiores heróis da DC Comics, incluindo Batman, Superman, Wonder Woman, Aquaman, The Flash e Cyborg. Eles se unem para combater uma ameaça global, liderada pelo vilão Steppenwolf. A equipe precisa superar suas diferenças e trabalhar em conjunto para salvar o mundo de uma catástrofe iminente. O filme é conhecido por suas cenas de ação intensas e efeitos visuais impressionantes. É uma peça central no universo cinematográfico da DC."
-                ],
-                "tags": ["cinema", "desafio", "criação"]
-                },{
-                    "title": "Planeta dos Macacos",
-                    "image": "PlanetaDosMacacos.jpg",
-                    "text": [
-                        "Planet of the Apes é uma série de filmes que explora um futuro onde macacos inteligentes dominam o planeta e os humanos são subjugados. A história começa com uma expedição espacial que descobre esta realidade distópica. Ao longo dos filmes, temas de evolução, guerra e ética são explorados. O reboot moderno, começando com Rise of the Planet of the Apes, foca em César, um chimpanzé geneticamente aprimorado, e sua luta pela liberdade. Os filmes são elogiados por seus efeitos especiais e narrativa profunda."
-                    ],
-                    "tags": ["cinema", "podcast"]
-                    },
-                    {
-                    "title": "Kong",
-                    "image": "Kong.png",
-                    "text": [
-                        "Kong se refere aos filmes centrados no icônico gorila gigante King Kong, que é descoberto em uma ilha misteriosa. Os filmes geralmente mostram a captura de Kong e sua eventual fuga e rampage em áreas urbanas, como Nova York. As histórias misturam aventura, horror e drama, destacando o conflito entre o homem e a natureza. As versões modernas, como Kong: Skull Island, expandem a mitologia do personagem e seu mundo. Kong é uma figura icônica no cinema, representando tanto o poder bruto quanto a tragédia."
-                    ],
-                    "tags": ["cinema", "discord"]
-                    },
-                    {
-                    "title": "Velozos e Furiosos",
-                    "image": "FV.jpg",
-                    "text": [
-                        "The Fast and the Furious é uma franquia de ação centrada em corridas de rua, heists e espionagem. Começando com competições ilegais de carros em Los Angeles, a série evoluiu para missões globais envolvendo perigos extremos. Os personagens principais, como Dominic Toretto e Brian O'Conner, são conhecidos por sua lealdade e habilidades ao volante. Cada filme apresenta carros de alta velocidade, acrobacias inacreditáveis e um forte senso de família. A franquia é um sucesso mundial, com um grande número de seguidores."
-                    ],
-                    "tags": ["cinema", "desafio", "criação"]
-                    }    
-                               
+            "tags": ["Ação", "/Aventura"]
+            }        
 
     ]
