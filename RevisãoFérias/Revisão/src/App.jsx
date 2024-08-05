@@ -1,30 +1,18 @@
-import { useState } from 'react'
 import './App.css'
+import Contador from './Contador'
+import NumeroAleatorio from './NumeroAleatorio'
 
 function App() {
 
-const [contador, setContador] = useState(0)
-  
-function handleClick(){
-  setContador(()=>(
-    contador + 1
-  ))
-  console.log(contador)
-}
-function handleClick2(){
-  setContador(()=>(
-    contador - 1
-  ))
-  console.log(contador)
-
-}
-  return (
+  return(
     <>
-        <p>{contador}</p>
-        <button onClick={handleClick}>Aumentar</button>
-        <button onClick={handleClick2}>Diminuir </button>
+
+    <Contador/>
+    <NumeroAleatorio/>
+
     </>
   )
+
 }
 
 export default App
