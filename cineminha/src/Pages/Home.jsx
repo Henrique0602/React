@@ -1,22 +1,41 @@
 import data from "../../article.json"
 import { FaRegHeart } from "react-icons/fa";
+import { useState } from "react";
 
 
 
 
 function Home() {
 
+    const[searchInput, setsearchInput] = useState('')
+    const[artigos, setartigos] = useState(data)
+    
+    const handleInputChange = e => {
+
+        const searchTerm = e.target.value
+        setsearchInput(searchTerm)
+        
+        const resultados = data.filter ( (search) => (
+            search.title.toLowerCase().includes(searchTerm.toLowerCase())
+        ))
+        
+        setartigos(resultados)
+    }
+
     return (
         <main className="bg-black">
             <div className="flex justify-center ">
-                <input className=" w-80 h-12 rounded-lg mt-10 p-5 border-solid border-2 border-white bg-black text-white" type="text" name="busca" id="busca" placeholder="Digite aqui sua busca" />
+                <input className=" w-80 h-12 rounded-lg mt-10 p-5 border-solid border-2 border-white bg-black text-white" type="text" name="busca" id="busca" placeholder="Digite aqui sua busca"  value={searchInput} onChange={handleInputChange} />
             </div>
             <h1 className="text-white font-bold text-2xl flex justify-center mb-10 mt-20 ">Não fique por fora. Saiba de tudo!!</h1>
 
             <div className="grid grid-cols-3 gap-4">
 
 
-                {data.map(
+                {
+                 artigos.length>0?
+
+                artigos.map(
                     filme => (
                         <div className="card bg-gray-800 p-5 rounded-lg mx-5 gap-3 ">
 
@@ -49,6 +68,8 @@ function Home() {
 
                     )
                 )
+
+                :<p className="text-white">Não foi encontrado nada!!!</p>
                 }
 
             </div>
